@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/logo.png";
 import { GrLanguage } from "react-icons/gr";
-import Button from "./Button";
+import Button from "../components/Button";
 
 const Header = () => {
   return (

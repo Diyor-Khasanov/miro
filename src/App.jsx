@@ -1,12 +1,20 @@
-import React from 'react'
-import Header from './components/Header'
+import React from "react";
+import Header from "./pages/Header";
+import Home from "./pages/Home";
 
 const App = () => {
   return (
     <div>
       <Header />
+      <Home
+        title="Take ideas from better to best"
+        des="Miro is your team's visual platform to connect, collaborate, and create — together."
+        input="Enter your work email"
+        textGray="Collaborate with your team within minutes"
+        starDes='Based on 5149+ reviews:'
+      />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
