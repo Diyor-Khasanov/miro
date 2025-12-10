@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./pages/Header";
 import Home from "./pages/Home";
+import Trusted from "./pages/Trusted";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         textGray="Collaborate with your team within minutes"
         starDes='Based on 5149+ reviews:'
       />
+      <Trusted />
     </div>
   );
 };

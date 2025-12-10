@@ -1,18 +1,18 @@
 export const trusted = [
   {
-    img: './assets/trusted1.png'
+    img: ''
   },
   {
-    img: './assets/trusted2.png'
+    img: '../assets/trusted2.png'
   },
   {
-    img: './assets/trusted3.png'
+    img: '../assets/trusted3.png'
   },
   {
-    img: './assets/trusted4.png'
+    img: '../assets/trusted4.png'
   },
   {
-    img: './assets/trusted5.png'
+    img: '../assets/trusted5.png'
   }
 ]
 
