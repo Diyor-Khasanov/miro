@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Trusted from "./pages/Trusted";
 import Collaborate from "./pages/Collaborate";
 import Work from "./pages/Work";
+import Connect from "./pages/Connect";
 
 const App = () => {
   return (
@@ -21,6 +22,11 @@ const App = () => {
       <Work
         title="Work together, wherever you work"
         des="In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and co-create in one space no matter where you are."
+        link="Learn more"
+      />
+      <Connect
+        title="Connect your tools, close your tabs"
+        des="Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love."
         link="Learn more"
       />
     </div>
