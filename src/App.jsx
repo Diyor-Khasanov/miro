@@ -6,6 +6,7 @@ import Collaborate from "./pages/Collaborate";
 import Work from "./pages/Work";
 import Connect from "./pages/Connect";
 import Banner from "./pages/Banner";
+import WayToWork from "./pages/WayToWork";
 
 const App = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
         link="Learn more"
       />
       <Banner />
+      <WayToWork />
     </div>
   );
 };

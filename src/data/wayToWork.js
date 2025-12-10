@@ -1,0 +1,1 @@
+export const wayToWork = ['Brainstorming', 'Diagramming', 'Meetings & Workshops', 'Scrum Events', 'Mapping', 'Research & Design', 'Strategic Planning']
