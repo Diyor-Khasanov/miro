@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./pages/Header";
 import Home from "./pages/Home";
 import Trusted from "./pages/Trusted";
+import Collaborate from "./pages/Collaborate";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         starDes='Based on 5149+ reviews:'
       />
       <Trusted />
+      <Collaborate />
     </div>
   );
 };
