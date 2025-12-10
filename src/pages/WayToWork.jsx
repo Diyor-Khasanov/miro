@@ -6,7 +6,7 @@ import Link from "../components/Link";
 const WayToWork = () => {
   return (
     <div>
-      <h1 className="text-6xl font-bold mx-40 my-5">
+      <h1 className="text-6xl font-bold mx-30 my-5">
         Built for the way you work
       </h1>
 
@@ -19,7 +19,7 @@ const WayToWork = () => {
       </div>
 
       <div className="flex justify-around">
-        <div className="max-w-[700px] flex flex-col gap-8">
+        <div className="max-w-[700px] flex flex-col gap-8 mt-8">
           <h1>Brainstorming</h1>
           <p className="text-gray-600">
             Unleash creative ideas and build on them with the help of sticky

@@ -1,0 +1,1 @@
+export const kindsOfTeams = ['UX & Design', 'Marketing', 'Product Management', 'Engineering', 'Consultants', 'Agile Coaches', 'Sales']

@@ -7,6 +7,7 @@ import Work from "./pages/Work";
 import Connect from "./pages/Connect";
 import Banner from "./pages/Banner";
 import WayToWork from "./pages/WayToWork";
+import KindsOfTeams from "./pages/KindsOfTeams";
 
 const App = () => {
   return (
@@ -33,6 +34,7 @@ const App = () => {
       />
       <Banner />
       <WayToWork />
+      <KindsOfTeams />
     </div>
   );
 };
