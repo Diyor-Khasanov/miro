@@ -5,6 +5,7 @@ import Trusted from "./pages/Trusted";
 import Collaborate from "./pages/Collaborate";
 import Work from "./pages/Work";
 import Connect from "./pages/Connect";
+import Banner from "./pages/Banner";
 
 const App = () => {
   return (
@@ -29,6 +30,7 @@ const App = () => {
         des="Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love."
         link="Learn more"
       />
+      <Banner />
     </div>
   );
 };
